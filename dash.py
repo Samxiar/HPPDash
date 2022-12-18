@@ -18,7 +18,7 @@ def get_data(filename):
 with header:
     st.title("Dashboarding with Sam 👽")
     st.text('''This is a Data Science Project on House Price Prediction 
-using the Multi-Variate Linear Regression.''')
+using the Support Vector Machine Algorithm.''')
 
 
 with dataset:
